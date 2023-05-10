@@ -1,3 +1,3 @@
-# This is a down test page.
+# This is a Mark down test page.
 
-##  Sphinx should generate the relevant HTML from these files
+##  Sphinx should generate the relevant HTML from this file
