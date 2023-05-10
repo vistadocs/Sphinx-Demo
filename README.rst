@@ -21,10 +21,10 @@ Open the index.rs file and add a reference to the new file in the Contents secti
 
 Commit and push the changes.
 
-Read the Docs will automatically generate the relevant html and pdf files for viewing and so after a period, navigate to https://sphinx-demo-vista.readthedocs.io/en/latest/index.html to see the changes
+Read the Docs will automatically generate the relevant html and pdf files for viewing and so after a period, navigate to https://vista-docs.readthedocs.io/en/latest/ to see the changes
 
 A single pdf document will be built from the added MD files. To see the PDF document, navigate to:
 
-https://readthedocs.org/projects/sphinx-demo-vista/downloads/pdf/latest/
+https://readthedocs.org/projects/vista-docs/downloads/pdf/latest/
 
 
